@@ -1,7 +1,9 @@
 Hi I'm Emman 👋 <br>
-🔭 I’m currently working on 
-🌱 I’m currently learning Java
-📫 How to reach me: realemby7@gmail.com
+🔭 I’m currently working on improving my skills in my Major, Network Technology. <br>
+🌱 I’m currently learning CCNA 200-301 and other programming languages. <br>
+👯 I’m looking to collaborate on some Lab Practices or hands on that will improve my Computer Networking skills. <br>
+⚡Technical skills: Time management, Basic configuration and troubleshooting of Networking Equipments. <br>
+📫 How to reach me: realemby7@gmail.com <br>
 <!--
 **BaybayEmman/BaybayEmman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
