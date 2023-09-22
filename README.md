@@ -1,5 +1,7 @@
-### Hi there 👋
-
+Hi I'm Emman 👋 <br>
+🔭 I’m currently working on 
+🌱 I’m currently learning Java
+📫 How to reach me: realemby7@gmail.com
 <!--
 **BaybayEmman/BaybayEmman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
